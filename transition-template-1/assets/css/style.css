@@ -27,7 +27,7 @@
     }
 
     img {
-        width: 8rem;
+        width: 100px; /* Image Width */
         margin: 1rem;
         padding: 1rem;
         border: 2px solid rgb(36, 197, 36);
