@@ -19,7 +19,9 @@ body {
 }
 
 .container {
-    width: clamp(768px, 100vw ,1140px);
+    min-width: 768px;
+    width: 100vw;
+    max-width: 1140px;
     margin: 1rem auto;
 }
 
